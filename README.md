@@ -8,13 +8,13 @@
 
 - Написать метод, который будет запрашивать у пользователя критерий (или критерии) фильтрации и выведет ноутбуки, отвечающие фильтру. Критерии фильтрации можно хранить в Map. Например: “Введите цифру, соответствующую необходимому критерию:
 
-1. - ОЗУ
+1. ОЗУ
 
-2. - Объем ЖД
+2. Объем ЖД
 
-3. - Операционная система
+3. Операционная система
 
-4. - Цвет …
+4. Цвет …
 
 - Далее нужно запросить минимальные значения для указанных критериев - сохранить параметры фильтрации можно также в Map.
 
@@ -28,13 +28,13 @@
 
 - Write a method that will ask the user for a filter criterion (or criteria) and output laptops that meet the filter. Filtering criteria can be stored in Map. For example: “Enter the number corresponding to the required criterion:
 
-1. - RAM
+1. RAM
 
-2. - Railway volume
+2. Railway volume
 
-3. - Operating system
+3. Operating system
 
-4. - Color …
+4. Color …
 
 - Next, you need to request the minimum values for the specified criteria - you can also save the filtering parameters in Map.
 
